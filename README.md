@@ -50,10 +50,11 @@ The final models were trained on the following features:
 
 ## How to View the Project
 This repository contains an interactive Jupyter Notebook. 
-Due to GitHub's restrictions on rendering interactive charts (like Plotly), please use the following link to view the notebook with full functionality:
+Due to GitHub's restrictions on rendering interactive charts (like Plotly), please use the following link to view the notebook in nbviewer:
 
 [GDP analysis notebook](https://nbviewer.org/github/rParkerT/GDP_analysis/blob/main/macro_economy.ipynb).
 
+To see full functionality of interactive plotly charts, run notebook locally. 
 
 ## Requirements
 The project was built using a standard Python data science environment. You can replicate the analysis by installing the following libraries:
